@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1, AUS TAMIL
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1, TAMIL VISION TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1, ADHAVAN TV
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1050439537.m3u8
+#EXTINF:-1, ADHAVAN HD TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1, 3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1,Rasi TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:-1,Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1,Rasi Classic
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1,7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1,Tirumalai TV KARUR
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1,Arasan TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1, ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1, ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1,Pakalavan TV
+https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
+#EXTINF:-1,MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1,MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1,MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:48,EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1, WORLD TAMIL TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:-1, HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1, Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1,Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1,Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1,Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1,JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1, MEENAKSHI TV
+https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
+#EXTINF:-1,Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:-1, Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,Kalaignar TV 
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1,Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1,SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1,Puthuyugam TV  
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1,Vijay TV
+http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/chunklist_w65972152.m3u8
+#EXTINF:-1,SUN TV HD
+http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+#EXTINF:-1,KTV TAMIL
+http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
+#EXTINF:-1,Colors Tamil
+http://uk1.zecast.com:1935/star-live/colours/index.m3u8
+#EXTINF:-1,Sun Music Tamil
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1,Nila TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8
+#EXTINF:-1,Vedha TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/vedhatv_low/index.m3u8
+#EXTINF:-1,UltraMAX TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:-1, Rasi tamil
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-1, Rasi movies
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-1, Sooriyan tv
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1, 7S Music tv
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1, Kalaignar tv
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1, IBC_KIDS TV
+https://www.legitpro.in/IBC_KIDS_CDN/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Discovery Tamil TV
+https://itvorigin.multitvsolution.com/idvo/discoverytamil.m3u8
+#EXTINF:-1, Peppers TV
+https://live.wmncdn.net/peppers/live.stream/index.m3u8
+#EXTINF:-1, VASANTH TV
+https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1,IMAYAM TV
+https://itvorigin.multitvsolution.com/idvo/imayamtv.m3u8
+#EXTINF:-1, Dan Music TV
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:-1, IBC Music TV
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NEWS Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+#EXTINF:-1,NEWS Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1, News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1, NEWS Puthiya Thalaimurai tv
+https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live1/chunks.m3u8
