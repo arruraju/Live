@@ -33,7 +33,7 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1,MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:48,EET TV
+#EXTINF:-1,EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1, WORLD TAMIL TV
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
