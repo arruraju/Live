@@ -123,3 +123,5 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1, English HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1, English AND FLIX Tv
+https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/mono.m3u8
