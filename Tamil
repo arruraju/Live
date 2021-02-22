@@ -113,6 +113,8 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1, NEWS Puthiya Thalaimurai tv
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live1/chunks.m3u8
+#EXTINF:-1, Discovery Tamil
+https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1, English Cine-Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
 #EXTINF:-1, English MBC2
