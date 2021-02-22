@@ -127,3 +127,5 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/mono.m3u8
 #EXTINF:-1, English AND FLIX HD Tv
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, English FOX MOVIES-HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
