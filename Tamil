@@ -129,3 +129,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, English FOX MOVIES-HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
+#EXTINF:-1, English NAT GEO PEOPLE HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1, English NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
