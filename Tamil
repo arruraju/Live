@@ -103,7 +103,9 @@ https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live
 https://itvorigin.multitvsolution.com/idvo/imayamtv.m3u8
 #EXTINF:-1, Dan Music TV
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:-1, ChuttiTV TV
+#EXTINF:-1, MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1, KIDS ChuttiTV TV
 http://www.luckonline.eu:80/JyuX9bT1jd/nVCV2DXMvg/1280
 #EXTINF:-1,NEWS Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
@@ -133,3 +135,5 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1, English NAT GEO WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1, English AND PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
