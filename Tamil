@@ -1,141 +1,139 @@
 #EXTM3U
-#EXTINF:-1, AUS TAMIL
+#EXTINF:-1,TAMIL AUS
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1, TAMIL VISION TV
+#EXTINF:-1,TAMIL VISION TV
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1, Aaryatv TV
+#EXTINF:-1,TAMIL Aaryatv TV
 http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
-#EXTINF:-1, ADHAVAN HD TV
+#EXTINF:-1,TAMIL ADHAVAN HD TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1, 3 TAMIL
+#EXTINF:-1,TAMIL 3
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,Rasi TV
+#EXTINF:-1,TAMIL Rasi TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
-#EXTINF:-1,Rasi Movies
+#EXTINF:-1,TAMIL Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-#EXTINF:-1,Rasi Classic
+#EXTINF:-1,TAMIL Rasi Classic
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1,7Star TV
+#EXTINF:-1,TAMIL 7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1,Tirumalai TV KARUR
+#EXTINF:-1,TAMIL Tirumalai TV
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-#EXTINF:-1,Arasan TV
+#EXTINF:-1,TAMIL Arasan TV
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
-#EXTINF:-1, ACN Cinema
+#EXTINF:-1,TAMIL ACN Cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8
-#EXTINF:-1, ACN Music
+#EXTINF:-1,TAMIL ACN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
-#EXTINF:-1,Pakalavan TV
+#EXTINF:-1,TAMIL Pakalavan TV
 https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
-#EXTINF:-1,MK Six
+#EXTINF:-1,TAMIL MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1,MK Tunes
+#EXTINF:-1,TAMIL MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1,MK TV
+#EXTINF:-1,TAMIL MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1,EET TV
+#EXTINF:-1,TAMIL EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1, WORLD TAMIL TV
+#EXTINF:-1,TAMIL WORLD TAMIL TV
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
-#EXTINF:-1, HARI TV
+#EXTINF:-1,TAMIL HARI TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1, Sangamam HD
+#EXTINF:-1,TAMIL Sangamam HD
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
-#EXTINF:-1,Santhora Short Flim
+#EXTINF:-1,TAMIL Santhora Short Flim
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
-#EXTINF:-1,Santhora TV
+#EXTINF:-1,TAMIL Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1,Marutam TV
+#EXTINF:-1,TAMIL Marutam TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1,JAWAHAR TV
+#EXTINF:-1,TAMIL JAWAHAR TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1, MEENAKSHI TV
+#EXTINF:-1,TAMIL MEENAKSHI TV
 https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
-#EXTINF:-1,Moon TV
-http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
-#EXTINF:-1, Vanavil Plus TV
+#EXTINF:-1,TAMIL Vanavil Plus TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
-#EXTINF:-1,Akaram Kidz
+#EXTINF:-1,KIDS Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1,Kalaignar TV 
+#EXTINF:-1,TAMIL Kalaignar TV 
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1,Raj TV
+#EXTINF:-1,TAMIL Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
-#EXTINF:-1,SD Media
+#EXTINF:-1,TAMIL SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
-#EXTINF:-1,Puthuyugam TV  
+#EXTINF:-1,TAMIL Puthuyugam TV  
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1,Vijay TV
+#EXTINF:-1,TAMIL Vijay TV
 http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/chunklist_w65972152.m3u8
-#EXTINF:-1,SUN TV HD
+#EXTINF:-1,TAMIL SUN TV HD
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
-#EXTINF:-1,KTV TAMIL
+#EXTINF:-1,TAMIL KTV
 http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
-#EXTINF:-1,Colors Tamil
+#EXTINF:-1,TAMIL Colors
 http://uk1.zecast.com:1935/star-live/colours/index.m3u8
-#EXTINF:-1,Sun Music Tamil
+#EXTINF:-1,TAMIL Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-#EXTINF:-1,Zee Tamil
+#EXTINF:-1,TAMIL Zee Tamil
 https://bit.ly/3rQR29J
-#EXTINF:-1,Zee thirai Tamil
+#EXTINF:-1,TAMIL Zee thirai
 https://bit.ly/37g7c4z
-#EXTINF:-1,Nila TV
+#EXTINF:-1,TAMIL Nila TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8
-#EXTINF:-1,Vedha TV
+#EXTINF:-1,TAMIL Vedha TV
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/vedhatv_low/index.m3u8
-#EXTINF:-1,UltraMAX TV
+#EXTINF:-1,TAMIL UltraMAX TV
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:-1, Rasi tamil
+#EXTINF:-1,TAMIL Rasi
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
-#EXTINF:-1, Rasi movies
+#EXTINF:-1,TAMIL Rasi movies
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
-#EXTINF:-1, Sooriyan tv
+#EXTINF:-1,TAMIL Sooriyan tv
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1, 7S Music tv
+#EXTINF:-1,TAMIL 7S Music tv
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1, Kalaignar tv
+#EXTINF:-1,TAMIL Kalaignar tv
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1, IBC_MUSIC TV
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v3a1/mono.m3u8
-#EXTINF:-1, Discovery Tamil TV
+#EXTINF:-1,TAMIL Discovery TV
 https://itvorigin.multitvsolution.com/idvo/discoverytamil.m3u8
-#EXTINF:-1, Peppers TV
+#EXTINF:-1, Discovery Tamil
+https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
+#EXTINF:-1,TAMIL Peppers TV
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
-#EXTINF:-1, VASANTH TV
+#EXTINF:-1,TAMIL VASANTH TV
 https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
-#EXTINF:-1,IMAYAM TV
+#EXTINF:-1,TAMIL IMAYAM TV
 https://itvorigin.multitvsolution.com/idvo/imayamtv.m3u8
-#EXTINF:-1, Dan Music TV
+#EXTINF:-1,TAMIL Dan Music TV
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:-1, MN TV
+#EXTINF:-1,TAMIL MN TV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1, KIDS ChuttiTV TV
+#EXTINF:-1,KIDS ChuttiTV TV
 http://www.luckonline.eu:80/JyuX9bT1jd/nVCV2DXMvg/1280
 #EXTINF:-1,NEWS Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 #EXTINF:-1,NEWS Velicham TV
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1, News 18 TAMIL
+#EXTINF:-1,News 18 TAMIL
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1, NEWS Puthiya Thalaimurai tv
+#EXTINF:-1,NEWS Puthiya Thalaimurai tv
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live1/chunks.m3u8
-#EXTINF:-1, NEWS-7 tv
+#EXTINF:-1,NEWS-7 tv
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1800000.m3u8
-#EXTINF:-1, Discovery Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-#EXTINF:-1, English MBC2
+#EXTINF:-1,English MBC2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1, English HBO Hits
+#EXTINF:-1,English HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1, English AND FLIX Tv
+#EXTINF:-1,English AND FLIX Tv
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/mono.m3u8
-#EXTINF:-1, English AND FLIX HD Tv
+#EXTINF:-1,English AND FLIX HD Tv
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, English FOX MOVIES-HD
+#EXTINF:-1,English FOX MOVIES-HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
-#EXTINF:-1, English NAT GEO PEOPLE HD
+#EXTINF:-1,English NAT GEO PEOPLE HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1, English NAT GEO WILD HD
+#EXTINF:-1,English NAT GEO WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1, English AND PRIVE HD
+#EXTINF:-1,English AND PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
