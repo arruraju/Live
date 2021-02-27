@@ -3,8 +3,8 @@
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1, TAMIL VISION TV
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1, ADHAVAN TV
-http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1050439537.m3u8
+#EXTINF:-1, Aaryatv TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
 #EXTINF:-1, ADHAVAN HD TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1, 3 TAMIL
