@@ -53,8 +53,6 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
 #EXTINF:-1,TAMIL Vanavil Plus TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
-#EXTINF:-1,KIDS Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,TAMIL Kalaignar TV 
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1,TAMIL Raj TV
@@ -96,8 +94,6 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1, IBC_MUSIC TV
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v3a1/mono.m3u8
 #EXTINF:-1,TAMIL Discovery TV
-https://itvorigin.multitvsolution.com/idvo/discoverytamil.m3u8
-#EXTINF:-1, Discovery Tamil
 https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1,TAMIL Peppers TV
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
@@ -111,6 +107,8 @@ https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1,KIDS ChuttiTV TV
 http://www.luckonline.eu:80/JyuX9bT1jd/nVCV2DXMvg/1280
+#EXTINF:-1,KIDS Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,NEWS Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 #EXTINF:-1,NEWS Velicham TV
