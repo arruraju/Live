@@ -102,7 +102,9 @@ https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live
 #EXTINF:-1,TAMIL IMAYAM TV
 https://itvorigin.multitvsolution.com/idvo/imayamtv.m3u8
 #EXTINF:-1,TAMIL Dan Music TV
-https://askmedia.livebox.co.in/DanMusichls/4.m3u8
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:-1,TAMIL Dan Comody TV
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 #EXTINF:-1,TAMIL MN TV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1,KIDS ChuttiTV TV
