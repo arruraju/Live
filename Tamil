@@ -80,8 +80,7 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/2605
 http://luckonline.eu:8080/17424/cnyzqDETiP/2606
 #EXTINF:-1 tvg-name="kochu TV" group-title="MALAYAM",kochu TV
 http://luckonline.eu:8080/17424/cnyzqDETiP/3622
-
-#EXTINF:-1 tvg-name="S TAR SPRTS 1 TAMIL" group-title="SPORTS",S TAR SPRTS 1 TAMIL
+#EXTINF:-1 tvg-name="S TAR SPRTS 1 TAMIL" group-title="TAMIL",S TAR SPRTS 1 TAMIL
 http://luckonline.eu:8080/17424/cnyzqDETiP/1529
 #EXTINF:-1 tvg-name="ZEE TAMIL" group-title="TAMIL",ZEE TAMIL
 http://luckonline.eu:8080/17424/cnyzqDETiP/388
@@ -123,8 +122,6 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/406
 http://luckonline.eu:8080/17424/cnyzqDETiP/1492
 #EXTINF:-1 tvg-name="Tamil: Cartoon Network" group-title="TAMIL",Tamil: Cartoon Network
 http://luckonline.eu:8080/17424/cnyzqDETiP/1485
-#EXTINF:-1 tvg-name="Zee salaam" group-title="HINDI",Zee salaam
-http://luckonline.eu:8080/17424/cnyzqDETiP/1484
 #EXTINF:-1 tvg-name="Tamil: BOSS TV" group-title="TAMIL",Tamil: BOSS TV
 http://luckonline.eu:8080/17424/cnyzqDETiP/1490
 #EXTINF:-1 tvg-name="Tamil: Jaya Movies UK" group-title="TAMIL",Tamil: Jaya Movies UK
@@ -211,12 +208,6 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/407
 http://luckonline.eu:8080/17424/cnyzqDETiP/400
 #EXTINF:-1 tvg-name="SAI TV" group-title="TAMIL",SAI TV
 http://luckonline.eu:8080/17424/cnyzqDETiP/401
-#EXTINF:-1 tvg-name="Radio City Tamil" group-title="HINDI -Radio",Radio City Tamil
-http://luckonline.eu:8080/17424/cnyzqDETiP/2780
-#EXTINF:-1 tvg-name="BBC TAMIL" group-title="HINDI -Radio",BBC TAMIL
-http://luckonline.eu:8080/17424/cnyzqDETiP/2781
-#EXTINF:-1 tvg-name="KIDS MOVIES- NEW RELEASES" group-title="VIEWER CHANNELS",KIDS MOVIES- NEW RELEASES
-http://luckonline.eu:8080/17424/cnyzqDETiP/3023
 #EXTINF:-1 tvg-name="Cartoon network UK" group-title="KIDS",Cartoon network UK
 http://luckonline.eu:8080/17424/cnyzqDETiP/752
 #EXTINF:-1 tvg-name="Cartoon Network US" group-title="KIDS",Cartoon Network US
@@ -273,9 +264,5 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/457
 http://luckonline.eu:8080/17424/cnyzqDETiP/453
 #EXTINF:-1 tvg-name="Sly movies disney HD" group-title="KIDS",Sly movies disney HD
 http://luckonline.eu:8080/17424/cnyzqDETiP/808
-#EXTINF:-1 tvg-name="Aljazeera kids" group-title="ARABIC",Aljazeera kids
-http://luckonline.eu:8080/17424/cnyzqDETiP/964
 #EXTINF:-1 tvg-name="SAT 7 KIDS" group-title="KIDS",SAT 7 KIDS
 http://luckonline.eu:8080/17424/cnyzqDETiP/986
-#EXTINF:-1 tvg-name="AJYAL TV KIDS" group-title="ARABIC",AJYAL TV KIDS
-http://luckonline.eu:8080/17424/cnyzqDETiP/984
