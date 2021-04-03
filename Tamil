@@ -3,10 +3,16 @@
 https://bit.ly/3rQR29J
 #EXTINF:-1 tvg-name="KTV TAMIL" group-title="TAMIL",KTV TAMIL
 http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
+#EXTINF:-1 tvg-name="STAR VIJAY TAMIL" group-title="TAMIL",STAR VIJAY TAMIL
+http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/chunklist_w65972152.m3u8
 #EXTINF:-1 tvg-name="COLORS TAMIL" group-title="TAMIL",COLORS TAMIL
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 #EXTINF:-1 tvg-name="3 TAMIL" group-title="TAMIL",3 TAMIL
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-name="SUN TV TAMIL" group-title="TAMIL",SUN TV TAMIL
+http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+#EXTINF:-1 tvg-name="SUN MUSIC TAMIL" group-title="TAMIL",SUN MUSIC TAMIL
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-name="RASIMOVIES TAMIL" group-title="TAMIL",RASIMOVIES TAMIL
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV TAMIL" group-title="TAMIL",UTV TAMIL
