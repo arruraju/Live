@@ -111,6 +111,8 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-name="PBS KIDS" group-title="KIDS",PBS KIDS
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 
 #EXTINF:-1 tvg-name="MBCMAX ENGLISH" group-title="ENGLISH",MBCMAX ENGLISH
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
