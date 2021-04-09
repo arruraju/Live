@@ -109,6 +109,8 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/368
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
 #EXTINF:-1, tvg-name="Tamil_SANGAMAM" group-title="TAMIL",Tamil_SANGAMAM
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1 tvg-name="ARASAN TAMIL" group-title="TAMIL",ARASAN TAMIL
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -116,8 +118,8 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 #EXTINF:-1 tvg-name="KIDS LINEAR" group-title="KIDS",KIDS LINEAR
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 tvg-name="KIDS NICK" group-title="KIDS",KIDS NICK
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-name="KIDS BOOMERANG" group-title="KIDS",KIDS BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="KIDS",DISCOVERY KIDS
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 
