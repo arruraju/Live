@@ -111,6 +111,13 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 tvg-name="ARASAN TAMIL" group-title="TAMIL",ARASAN TAMIL
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1 tvg-name="NEWS18 TAMIL" group-title="TAMIL",NEWS18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-name="TAMIL KALAIGNAR" group-title="TAMIL",TAMIL KALAIGNAR
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-name="NEWS THANTHI TAMIL" group-title="TAMIL",NEWS THANTHI TAMIL
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
