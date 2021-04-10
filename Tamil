@@ -117,7 +117,36 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-name="NEWS THANTHI TAMIL" group-title="TAMIL",NEWS THANTHI TAMIL
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-
+#EXTINF:-1, tvg-name="Tamil 7SMUSIC" group-title="TAMIL",Tamil 7SMUSIC
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1, tvg-name="Tamil 7STAR" group-title="TAMIL",Tamil 7STAR
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1, tvg-name="Tamil ATHAVAN" group-title="TAMIL",Tamil ATHAVAN
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1, tvg-name="Tamil ACNMUSIC" group-title="TAMIL",Tamil ACNMUSIC
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1, tvg-name="Tamil ADUTHA THALAIMURAI" group-title="TAMIL",Tamil ADUTHA THALAIMURAI
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+#EXTINF:-1, tvg-name="Tamil AUSTAMIL" group-title="TAMIL",Tamil AUSTAMIL
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1, tvg-name="Tamil ISAIARUVI" group-title="TAMIL",Tamil ISAIARUVI
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1, tvg-name="Tamil MAKKAL" group-title="TAMIL",Tamil MAKKAL
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1, tvg-name="Tamil MALAIMURASU" group-title="TAMIL",Tamil MALAIMURASU
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1, tvg-name="Tamil MALLIGAI" group-title="TAMIL",Tamil MALLIGAI
+http://jaaltv.livebox.co.in/malligaihls/live.m3u8
+#EXTINF:-1, tvg-name="Tamil MNTV" group-title="TAMIL",Tamil MNTV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1, tvg-name="Tamil NEWS7" group-title="TAMIL",Tamil NEWS7
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1, tvg-name="Tamil POLIMER NEWS" group-title="TAMIL",Tamil POLIMER NEWS
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1, tvg-name="Tamil PUTHIYATHALAIMURAI NEWS" group-title="TAMIL",Tamil PUTHIYATHALAIMURAI NEWS
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8V
+#EXTINF:-1, tvg-name="Tamil VAIGAI" group-title="TAMIL",Tamil VAIGAI
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -129,6 +158,8 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="KIDS",DISCOVERY KIDS
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 tvg-name="PBS-1 KIDS" group-title="KIDS",PBS-1 KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-name="MBCMAX ENGLISH" group-title="ENGLISH",MBCMAX ENGLISH
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
@@ -140,3 +171,44 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-name="ZEECAFE ENGLISH" group-title="ENGLISH",ZEECAFE ENGLISH
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="&PRIVATE" group-title="ENGLISH",&PRIVATE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-name="MBC2 FHD ENGLISH" group-title="ENGLISH",MBC2 FHD ENGLISH
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 tvg-name="NEWS NDTV24X7 ENGLISH" group-title="ENGLISH",NEWS NDTV24X7 ENGLISH
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 tvg-name="ZEECAFE ENGLISH" group-title="ENGLISH",ZEECAFE ENGLISH
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ACV NEWS MALAYALAM" group-title="MALAYALAM",ACV NEWS MALAYALAM
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ACV UTSAV MALAYALAM" group-title="MALAYALAM",ACV UTSAV MALAYALAM
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ACV UTSAV PLUS MALAYALAM" group-title="MALAYALAM",ACV UTSAV PLUS MALAYALAM
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ASIANET NEWS MALAYALAM" group-title="MALAYALAM",ASIANET NEWS MALAYALAM
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="KAPPATV MALAYALAM" group-title="MALAYALAM",KAPPATV MALAYALAM
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 tvg-name="KAUMUDYTV MALAYALAM" group-title="MALAYALAM",KAUMUDYTV MALAYALAM
+https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="VICKTERS MALAYALAM" group-title="MALAYALAM",VICKTERS MALAYALAM
+https://live.wmncdn.net/victers/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="M4 MALAYALAM" group-title="MALAYALAM",M4 MALAYALAM
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+
+#EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1 tvg-name="&PICTURES HD HINDI" group-title="HINDI",&PICTURES HD HINDI
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-name="9XM MUSIC HINDI" group-title="HINDI",9XM MUSIC HINDI
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 tvg-name="WOW CINEMA HINDI" group-title="HINDI",WOW CINEMA HINDI
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 tvg-name="WOW MUSIC HINDI" group-title="HINDI",WOW MUSIC HINDI
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-name="ZEECINEMA HD HINDI" group-title="HINDI",ZEECINEMA HD HINDI
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
