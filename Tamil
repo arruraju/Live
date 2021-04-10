@@ -197,7 +197,8 @@ https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="HBOHITS ENGLISH" group-title="ENGLISH",HBOHITS ENGLISH
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
+#EXTINF:-1 tvg-name="ANIMALPLANETHD ENGLISH" group-title="ENGLISH",ANIMALPLANETHD ENGLISH
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 
 #EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
