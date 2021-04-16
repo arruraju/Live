@@ -242,6 +242,10 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/playlist.m3u8
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="KAIRALIARABIA MALAYALAM" group-title="MALAYALAM",KAIRALIARABIA MALAYALAM
 https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8
+#EXTINF:-1 tvg-name="KCL MALAYALAM" group-title="MALAYALAM",KCL MALAYALAM
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-name="ZEEKERALAM MALAYALAM" group-title="MALAYALAM",ZEEKERALAM MALAYALAM
+http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
 
 #EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
