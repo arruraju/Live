@@ -151,6 +151,8 @@ http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 https://live.hdtamiltv.ca/live/hdv/index.m3u8
 #EXTINF:-1, tvg-name="Tamil DISCOVERY" group-title="TAMIL",Tamil DISCOVERY
 https://itvorigin.multitvsolution.com/idvo/discoverytamil.m3u8
+#EXTINF:-1, tvg-name="ZEE TAMIL" group-title="TAMIL",ZEE TAMIL
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -170,6 +172,10 @@ https://fikrulmkc.my.id/bagus/usee-nickjr.m3u8
 https://vodzong.mjunoon.tv:8087/appcast/cartoon-network-87/live/87M/playlist.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY-1 KIDS" group-title="KIDS",DISCOVERY-1 KIDS
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR KIDS" group-title="KIDS",DISNEY JR KIDS
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#EXTINF:-1 tvg-name="ZOOMOO KIDS" group-title="KIDS",ZOOMOO KIDS
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6533_720p/index.m3u8
 
 #EXTINF:-1 tvg-name="MBCMAX ENGLISH" group-title="ENGLISH",MBCMAX ENGLISH
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
@@ -199,6 +205,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-name="ANIMALPLANETHD ENGLISH" group-title="ENGLISH",ANIMALPLANETHD ENGLISH
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:-1 tvg-name="HBO ENGLISH" group-title="ENGLISH",HBO ENGLISH
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
