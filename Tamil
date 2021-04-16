@@ -159,6 +159,8 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1, tvg-name="MKSIX TAMIL" group-title="TAMIL",MKSIX TAMIL
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1, tvg-name="Tamil DISCOVERY HD" group-title="TAMIL",Tamil DISCOVERY HD
+https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -256,7 +258,18 @@ http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
 http://103.199.160.85/Content/24news/Live/Channel(24news)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-name="MANGALAM MALAYALAM" group-title="MALAYALAM",MANGALAM MALAYALAM
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/Stream(01)/index.m3u8
-
+#EXTINF:-1 tvg-name="PULARI MALAYALAM" group-title="MALAYALAM",PULARI MALAYALAM
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-name="MAZAVIL MANORAMA MALAYALAM" group-title="MALAYALAM",MAZAVIL MANORAMA MALAYALAM
+https://jiocdn.fun/liv.php?c=Mazhavil_Manorama&q=1200&e=.m3u8
+#EXTINF:-1 tvg-name="FLOWERS MALAYALAM" group-title="MALAYALAM",FLOWERS MALAYALAM
+https://jiocdn.fun/liv.php?c=Flower_TV&q=1200&e=.m3u8
+#EXTINF:-1 tvg-name="WE MALAYALAM" group-title="MALAYALAM",WE MALAYALAM
+https://jiocdn.fun/liv.php?c=Kairali_WE_TV&q=1200&e=.m3u8
+#EXTINF:-1 tvg-name="RAJMUSIC MALAYALAM" group-title="MALAYALAM",RAJMUSIC MALAYALAM
+https://jiocdn.fun/liv.php?c=Raj_Music_Malayalam&q=1200&e=.m3u8
+#EXTINF:-1 tvg-name="KAIRALI MALAYALAM" group-title="MALAYALAM",KAIRALI MALAYALAM
+https://jiocdn.fun/liv.php?c=Kairali_TV&q=1200&e=.m3u8
 #EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-name="&PICTURES HD HINDI" group-title="HINDI",&PICTURES HD HINDI
@@ -271,3 +284,5 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-name="MASTHI HINDI" group-title="HINDI",MASTHI HINDI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-name="SHEMARO MUSIC HINDI" group-title="HINDI",SHEMARO MUSIC HINDI
+https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
