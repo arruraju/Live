@@ -153,6 +153,12 @@ https://live.hdtamiltv.ca/live/hdv/index.m3u8
 https://itvorigin.multitvsolution.com/idvo/discoverytamil.m3u8
 #EXTINF:-1, tvg-name="ZEE TAMIL" group-title="TAMIL",ZEE TAMIL
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
+#EXTINF:-1, tvg-name="MKTUNES TAMIL" group-title="TAMIL",MKTUNES TAMIL
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1, tvg-name="MKTV TAMIL" group-title="TAMIL",MKTV TAMIL
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1, tvg-name="MKSIX TAMIL" group-title="TAMIL",MKSIX TAMIL
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -246,6 +252,8 @@ https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-name="ZEEKERALAM MALAYALAM" group-title="MALAYALAM",ZEEKERALAM MALAYALAM
 http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
+#EXTINF:-1 tvg-name="24NEWS MALAYALAM" group-title="MALAYALAM",24NEWS MALAYALAM
+http://103.199.160.85/Content/24news/Live/Channel(24news)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
