@@ -254,6 +254,8 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
 #EXTINF:-1 tvg-name="24NEWS MALAYALAM" group-title="MALAYALAM",24NEWS MALAYALAM
 http://103.199.160.85/Content/24news/Live/Channel(24news)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-name="MANGALAM MALAYALAM" group-title="MALAYALAM",MANGALAM MALAYALAM
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
@@ -267,3 +269,5 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-name="ZEECINEMA HD HINDI" group-title="HINDI",ZEECINEMA HD HINDI
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1 tvg-name="MASTHI HINDI" group-title="HINDI",MASTHI HINDI
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
