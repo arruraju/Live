@@ -215,6 +215,8 @@ http://bos.00387.info:8080/HBO3/index.m3u8?token=test
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-name="SONEY ACTION ENGLISH" group-title="ENGLISH",SONEY ACTION ENGLISH
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-name="FOX ENGLISH" group-title="ENGLISH",FOX ENGLISH
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
