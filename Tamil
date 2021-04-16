@@ -207,6 +207,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-name="HBO ENGLISH" group-title="ENGLISH",HBO ENGLISH
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO2 ENGLISH" group-title="ENGLISH",HBO2 ENGLISH
+http://bos.00387.info:8080/HBO2/index.m3u8?token=test
+#EXTINF:-1 tvg-name="HBO3 ENGLISH" group-title="ENGLISH",HBO3 ENGLISH
+http://bos.00387.info:8080/HBO3/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ANIMALPLANET ENGLISH" group-title="ENGLISH",ANIMALPLANET ENGLISH
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-name="SONEY ACTION ENGLISH" group-title="ENGLISH",SONEY ACTION ENGLISH
+http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
