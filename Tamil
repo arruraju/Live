@@ -166,8 +166,8 @@ https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-name="PBS KIDS" group-title="KIDS",PBS KIDS
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
-#EXTINF:-1 tvg-name="KIDS LINEAR" group-title="KIDS",KIDS LINEAR
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 tvg-name="KIDS CENTRAL" group-title="KIDS",KIDS CENTRAL
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTINF:-1 tvg-name="KIDS BOOMERANG" group-title="KIDS",KIDS BOOMERANG
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="KIDS",DISCOVERY KIDS
@@ -184,6 +184,13 @@ https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-name="ZOOMOO KIDS" group-title="KIDS",ZOOMOO KIDS
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6533_720p/index.m3u8
+#EXTINF:-1 tvg-name="BIZNET KIDS" group-title="KIDS",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-name="CBEEBIES KIDS" group-title="KIDS",CBEEBIES KIDS
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-name="NICKTOONS KIDS" group-title="KIDS",NICKTOONS KIDS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 #EXTINF:-1 tvg-name="MBCMAX ENGLISH" group-title="ENGLISH",MBCMAX ENGLISH
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
@@ -227,6 +234,8 @@ http://51.52.156.22:8888/http/009
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-name="NATGEO ENGLISH" group-title="ENGLISH",NATGEO ENGLISH
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="AXN ENGLISH" group-title="ENGLISH",AXN ENGLISH
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
