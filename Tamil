@@ -225,6 +225,8 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-name="FOX ENGLISH" group-title="ENGLISH",FOX ENGLISH
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-name="NATGEO ENGLISH" group-title="ENGLISH",NATGEO ENGLISH
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-name="ACV MALAYALAM" group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
