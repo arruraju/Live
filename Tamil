@@ -297,3 +297,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-name="SHEMARO MUSIC HINDI" group-title="HINDI",SHEMARO MUSIC HINDI
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
+
+#EXTINF:-1 tvg-name="STARSPORTS-1 TAMIL" group-title="SPORTS",STARSPORTS-1 TAMIL
+http://uk4.zecast.com:1935/star-live/cloud2t/chunklist_w8761599.m3u8
