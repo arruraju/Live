@@ -284,6 +284,10 @@ https://jiocdn.fun/liv.php?c=Kairali_WE_TV&q=1200&e=.m3u8
 https://jiocdn.fun/liv.php?c=Raj_Music_Malayalam&q=1200&e=.m3u8
 #EXTINF:-1 tvg-name="KAIRALI MALAYALAM" group-title="MALAYALAM",KAIRALI MALAYALAM
 https://jiocdn.fun/liv.php?c=Kairali_TV&q=1200&e=.m3u8
+#EXTINF:-1 tvg-name="RASI MALAYALAM" group-title="MALAYALAM",RASI MALAYALAM
+http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-name="&PICTURES HD HINDI" group-title="HINDI",&PICTURES HD HINDI
