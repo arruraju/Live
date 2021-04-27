@@ -3,8 +3,6 @@
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
 #EXTINF:-1 tvg-name="KTV TAMIL" group-title="TAMIL",KTV TAMIL
 http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
-#EXTINF:-1 tvg-name="STAR VIJAY TAMIL" group-title="TAMIL",STAR VIJAY TAMIL
-http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/chunklist_w65972152.m3u8
 #EXTINF:-1 tvg-name="COLORS TAMIL" group-title="TAMIL",COLORS TAMIL
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 #EXTINF:-1 tvg-name="3 TAMIL" group-title="TAMIL",3 TAMIL
@@ -19,93 +17,8 @@ http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1 tvg-name="KALAINGER NEWS TAMIL" group-title="TAMIL",KALAINGER NEWS TAMIL
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-name="SUN TV TAMIL" group-title="TAMIL",SUN TV TAMIL
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/384
-#EXTINF:-1 tvg-name="SUN MUSIC TAMIL" group-title="TAMIL",SUN MUSIC TAMIL
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/589
-#EXTINF:-1 tvg-name="SUN LIFE TAMIL" group-title="TAMIL",SUN LIFE TAMIL
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/591
-#EXTINF:-1 tvg-name="STAR VIJAY SUPER TAMIL" group-title="TAMIL",STAR VIJAY SUPER TAMIL
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/418
 #EXTINF:-1 tvg-name="ZEE THIRAI TAMIL" group-title="TAMIL",ZEE THIRAI TAMIL
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-224
-#EXTINF:-1 tvg-name="ZEE THIRAI TAMIL" group-title="TAMIL",ZEE THIRAI TAMIL
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
-#EXTINF:-1, tvg-name="Tamil_7startv HD" group-title="TAMIL",Tamil_7startv HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/714
-#EXTINF:-1, tvg-name="Tamil_Akaram Mix" group-title="TAMIL",Tamil_Akaram Mix
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/390
-#EXTINF:-1, tvg-name="Tamil_Captain_News HD" group-title="TAMIL",Tamil_Captain_News HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/375
-#EXTINF:-1, tvg-name="Tamil_Colors Tamil HD (jio)" group-title="TAMIL",Tamil_Colors Tamil HD (jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/412
-#EXTINF:-1, tvg-name="Tamil_DD Podhigai" group-title="TAMIL",Tamil_DD Podhigai
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/354
-#EXTINF:-1, tvg-name="Tamil_Tune6 HD" group-title="TAMIL",Tamil_Tune6 HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/398
-#EXTINF:-1, tvg-name="Tamil_Jaya TV" group-title="TAMIL",Tamil_Jaya TV
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/409
-#EXTINF:-1, tvg-name="Tamil_Jaya_Max HD(JIO)" group-title="TAMIL",Tamil_Jaya_Max HD(JIO)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1148
-#EXTINF:-1, tvg-name="Tamil_Jaya_Plus HD(jio)" group-title="TAMIL",Tamil_Jaya_Plus HD(jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1147
-#EXTINF:-1, tvg-name="Tamil_Kalaignar TV News" group-title="TAMIL",Tamil_Kalaignar TV News
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/388
-#EXTINF:-1, tvg-name="Tamil_KTV  FHD (usa)" group-title="TAMIL",Tamil_KTV  FHD (usa) 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/610
-#EXTINF:-1, tvg-name="Tamil_KTV FHD (IND)" group-title="TAMIL",Tamil_KTV FHD (IND) 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/611
-#EXTINF:-1, tvg-name="Tamil_KTV HD (UK)" group-title="TAMIL",Tamil_KTV HD (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/417
-#EXTINF:-1, tvg-name="Tamil_Makkal TV HD" group-title="TAMIL",Tamil_Makkal TV HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/351
-#EXTINF:-1, tvg-name="Tamil_News 18 HD" group-title="TAMIL",Tamil_News 18 HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/378
-#EXTINF:-1, tvg-name="Tamil_News7 HD" group-title="TAMIL",Tamil_News7 HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/370
-#EXTINF:-1, tvg-name="Tamil_NewsJ HD" group-title="TAMIL",Tamil_NewsJ HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/366
-#EXTINF:-1, tvg-name="Tamil_Puthiya Thalaimurai HD" group-title="TAMIL",Tamil_Puthiya Thalaimurai HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/374
-#EXTINF:-1, tvg-name="Tamil_ Polimer News" group-title="TAMIL",Tamil_ Polimer News
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/369
-#EXTINF:-1, tvg-name="Tamil_ polimer tv HD (jio)" group-title="TAMIL",Tamil_ polimer tv HD (jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1124
-#EXTINF:-1, tvg-name="Tamil_ Puthuyugam TV" group-title="TAMIL",Tamil_ Puthuyugam TV
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/353
-#EXTINF:-1, tvg-name="Tamil_Raj Digital Plush (jio)" group-title="TAMIL",Tamil_Raj Digital Plush (jio)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1126
-#EXTINF:-1, tvg-name="Tamil_Raj TV (Airtal)" group-title="TAMIL",Tamil_Raj TV (Airtal)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1125
-#EXTINF:-1, tvg-name="Tamil_Raj TV HD" group-title="TAMIL",Tamil_Raj TV HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/385
-#EXTINF:-1, tvg-name="Tamil_Sigaram TV" group-title="TAMIL",Tamil_Sigaram TV
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/395
-#EXTINF:-1, tvg-name="Tamil_Star Vijay INDIA" group-title="TAMIL",Tamil_Star Vijay INDIA
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/517
-#EXTINF:-1, tvg-name="Tamil_Star VIJAY SUPER" group-title="TAMIL",Tamil_Star VIJAY SUPER
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/418
-#EXTINF:-1, tvg-name="Tamil_Sun Life HD (IND)" group-title="TAMIL",Tamil_Sun Life HD (IND) 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/738
-#EXTINF:-1, tvg-name="Tamil_Sun Life HD (usa)" group-title="TAMIL",Tamil_Sun Life HD (usa)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/591
-#EXTINF:-1, tvg-name="Tamil_Sun Music HD VIP (usa)" group-title="TAMIL",Tamil_Sun Music HD VIP (usa)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/589
-#EXTINF:-1, tvg-name="Tamil_Sun TV HD (IND)" group-title="TAMIL",Tamil_Sun TV HD (IND)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/382
-#EXTINF:-1, tvg-name="Tamil_Sun TV HD (UK)" group-title="TAMIL",Tamil_Sun TV HD (UK)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/631
-#EXTINF:-1, tvg-name="Tamil_Sun TV HD (usa)" group-title="TAMIL",Tamil_Sun TV HD (usa)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/384
-#EXTINF:-1, tvg-name="Tamil_Sun_News" group-title="TAMIL",Tamil_Sun_News 
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/383
-#EXTINF:-1, tvg-name="Tamil_Tollywood Movies" group-title="TAMIL",Tamil_Tollywood Movies
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/410
-#EXTINF:-1, tvg-name="Tamil_Vendhar TV HD" group-title="TAMIL",Tamil_Vendhar TV HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1017
-#EXTINF:-1, tvg-name="Tamil_ Zee Tamil HD (Usa)" group-title="TAMIL",Tamil_ Zee Tamil HD (Usa)
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/368
-#EXTINF:-1, tvg-name="Tamil_Zee Thirai HD" group-title="TAMIL",Tamil_Zee Thirai HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
 #EXTINF:-1, tvg-name="Tamil_SANGAMAM" group-title="TAMIL",Tamil_SANGAMAM
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
@@ -113,8 +26,6 @@ http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 #EXTINF:-1 tvg-name="NEWS18 TAMIL" group-title="TAMIL",NEWS18 TAMIL
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1 tvg-name="TAMIL KALAIGNAR" group-title="TAMIL",TAMIL KALAIGNAR
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-name="NEWS THANTHI TAMIL" group-title="TAMIL",NEWS THANTHI TAMIL
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1, tvg-name="Tamil 7SMUSIC" group-title="TAMIL",Tamil 7SMUSIC
@@ -135,16 +46,12 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1, tvg-name="Tamil MALAIMURASU" group-title="TAMIL",Tamil MALAIMURASU
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1, tvg-name="Tamil MALLIGAI" group-title="TAMIL",Tamil MALLIGAI
-http://jaaltv.livebox.co.in/malligaihls/live.m3u8
 #EXTINF:-1, tvg-name="Tamil MNTV" group-title="TAMIL",Tamil MNTV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1, tvg-name="Tamil NEWS7" group-title="TAMIL",Tamil NEWS7
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
 #EXTINF:-1, tvg-name="Tamil POLIMER NEWS" group-title="TAMIL",Tamil POLIMER NEWS
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
-#EXTINF:-1, tvg-name="Tamil PUTHIYATHALAIMURAI NEWS" group-title="TAMIL",Tamil PUTHIYATHALAIMURAI NEWS
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8V
 #EXTINF:-1, tvg-name="Tamil VAIGAI" group-title="TAMIL",Tamil VAIGAI
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 #EXTINF:-1, tvg-name="Tamil HDTAMIL" group-title="TAMIL",Tamil HDTAMIL
