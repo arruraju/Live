@@ -79,8 +79,10 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 #EXTINF:-1 tvg-name="KIDS CENTRAL" group-title="KIDS",KIDS CENTRAL
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
-#EXTINF:-1 tvg-name="KIDS BOOMERANG" group-title="KIDS",KIDS BOOMERANG
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="KIDS BOOMERANG UK" group-title="KIDS",KIDS BOOMERANG UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/1962
+#EXTINF:-1 tvg-name="KIDS BOOMERANG US" group-title="KIDS",KIDS BOOMERANG US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27466
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="KIDS",DISCOVERY KIDS
 https://itvorigin.multitvsolution.com/idvo/discoverykidseng.m3u8
 #EXTINF:-1 tvg-name="PBS-1 KIDS" group-title="KIDS",PBS-1 KIDS
