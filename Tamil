@@ -73,8 +73,6 @@ http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 #EXTINF:-1, tvg-name="Tamil TVI" group-title="TAMIL",Tamil TVI
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-name="PBS KIDS" group-title="KIDS",PBS KIDS
@@ -199,24 +197,10 @@ https://jiocdn.fun/liv.php?c=Raj_Music_Malayalam&q=1200&e=.m3u8
 https://jiocdn.fun/liv.php?c=Kairali_TV&q=1200&e=.m3u8
 #EXTINF:-1 tvg-name="RASI MALAYALAM" group-title="MALAYALAM",RASI MALAYALAM
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="&PICTURES HINDI" group-title="HINDI",&PICTURES HINDI
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF:-1 tvg-name="&PICTURES HD HINDI" group-title="HINDI",&PICTURES HD HINDI
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-name="9XM MUSIC HINDI" group-title="HINDI",9XM MUSIC HINDI
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 tvg-name="WOW CINEMA HINDI" group-title="HINDI",WOW CINEMA HINDI
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 tvg-name="WOW MUSIC HINDI" group-title="HINDI",WOW MUSIC HINDI
-https://ilove.livebox.co.in/wowinhls/live.m3u8
-#EXTINF:-1 tvg-name="ZEECINEMA HD HINDI" group-title="HINDI",ZEECINEMA HD HINDI
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-name="MASTHI HINDI" group-title="HINDI",MASTHI HINDI
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-name="SHEMARO MUSIC HINDI" group-title="HINDI",SHEMARO MUSIC HINDI
-https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
+#EXTINF:-1 tvg-name="MAZHAVIL MALAYALAM" group-title="MALAYALAM",MAZHAVIL MALAYALAM
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-name="MANGALAM MALAYALAM" group-title="MALAYALAM",MANGALAM MALAYALAM
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
 #EXTINF:-1 tvg-name="STARSPORTS-1 TAMIL" group-title="SPORTS",STARSPORTS-1 TAMIL
 http://uk4.zecast.com:1935/star-live/cloud2t/chunklist_w8761599.m3u8
