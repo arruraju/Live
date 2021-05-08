@@ -75,6 +75,18 @@ http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 
 #EXTINF:-1 tvg-name="AKARAM KIDS TAMIL" group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network KIDS" group="KIDS",Cartoon Network KIDS
+http://starshare.live:8080/live/533004/533004/8.ts
+#EXTINF:-1 tvg-name="Sony Yay KIDS" group-title="KIDS",Sony Yay KIDS
+http://starshare.live:8080/live/533004/533004/204.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS HD" group-title="KIDS",DISCOVERY KIDS HD
+http://starshare.live:8080/live/533004/533004/208.ts
+#EXTINF:-1 tvg-name="NICK INDIA KIDS" group-title="KIDS",NICK INDIA KIDS
+http://starshare.live:8080/live/533004/533004/205.ts
+#EXTINF:-1 tvg-name="NICK JR INDIA KIDS" group-title="KIDS",NICK JR INDIA KIDS
+http://starshare.live:8080/live/533004/533004/206.ts
+#EXTINF:-1 tvg-name="NICK INDIA KIDS" group-title="KIDS",NICK INDIA KIDS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/2407
 #EXTINF:-1 tvg-name="PBS KIDS" group-title="KIDS",PBS KIDS
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 #EXTINF:-1 tvg-name="KIDS CENTRAL" group-title="KIDS",KIDS CENTRAL
