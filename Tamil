@@ -269,3 +269,26 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",MANGALAM MALAYALAM
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS",DD Sports
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/2357
+#EXTINF:-1 group-title="SPORTS",Fox Sports2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Ptv Sports
+http://starshare.live:8080/live/533004/533004/89.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports Cricket
+http://starshare.live:8080/live/533004/533004/12.ts
+#EXTINF:-1 group-title="SPORTS",Star Sports 1 HD
+http://starshare.live:8080/live/533004/533004/9397.ts
+#EXTINF:-1 group-title="SPORTS",Star Sports 1 Hindi HD
+http://starshare.live:8080/live/533004/533004/211.ts
+#EXTINF:-1 group-title="SPORTS",Star Sports 2 HD
+http://starshare.live:8080/live/533004/533004/239.ts
+#EXTINF:-1 group-title="SPORTS",Star Sports 3 HD
+http://starshare.live:8080/live/533004/533004/1080.ts
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 1
+http://starshare.live:8080/live/533004/533004/238.ts
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 2
+http://starshare.live:8080/live/533004/533004/200.ts
+#EXTINF:-1 group-title="SPORTS",Ten Sports
+http://starshare.live:8080/live/533004/533004/98.ts
