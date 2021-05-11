@@ -11,8 +11,6 @@ http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",ARASAN TAMIL
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",Ark tv
-http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Arunai tv
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Asai tv
@@ -57,10 +55,6 @@ http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kvmtv-32d6e133e4ba-otua-stream/index.m3u8
 #EXTINF:-1 group-title="TAMIL",Laxmi tv
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",Life tv
-http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
-#EXTINF:-1 group-title="TAMIL",Lifetv plus
-http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 #EXTINF:-1 group-title="TAMIL",MAKKAL
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="TAMIL",MALAIMURASU
