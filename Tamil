@@ -154,6 +154,8 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="KIDS",Chithiram Tv Tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network KIDS
 http://starshare.live:8080/live/533004/533004/8.ts
 #EXTINF:-1 group-title="KIDS",Sony Yay KIDS
@@ -180,9 +182,9 @@ http://51.52.156.22:8888/http/003
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="KIDS",HALOW KIDS
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
-#EXTINF:-1 group-title="KIDS",Chithiram Tv Tamil
-https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
-
+#EXTINF:-1 group-title="KIDS",Boomerang Tv
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+ 
 #EXTINF:-1 group-title="ENGLISH",And FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",&PRIVE ENGLISH
