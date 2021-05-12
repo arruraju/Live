@@ -73,6 +73,8 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist
 http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/polimernews.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TAMIL",NEWS Puthiyathalamurai
 http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TAMIL",NEWS ThanthiTV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Orange tv
 http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",Palaru tv
