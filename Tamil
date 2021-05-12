@@ -125,9 +125,12 @@ http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 http://softstreamtv.com:8080/NOTV/VTAMILTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",Wordgod tv
 http://198.144.149.82:8080/NOTV/WORDGODTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",ZEETAMIL
+#EXTINF:-1 group-title="TAMIL",ZEE TAMIL
 https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
-
+#EXTINF:-1 group-title="TAMIL",ZEE TAMIL
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
+#EXTINF:-1 group-title="TAMIL",ZEE Thirai
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-224
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -159,6 +162,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
 #EXTINF:-1 group-title="KIDS",POGO KIDS
 http://103.157.237.18:9000/play/402/index.m3u8
+
 #EXTINF:-1 group-title="ENGLISH",&PRIVE ENGLISH
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",ZEECAFE ENGLISH
@@ -187,6 +191,8 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ENGLISH",STARMOVIES ENGLISH
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
+
 #EXTINF:-1 group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",ACV NEWS MALAYALAM
