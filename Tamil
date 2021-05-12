@@ -99,6 +99,8 @@ http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 #EXTINF:-1 group-title="TAMIL",SUN MUSIC HD
 https://yuppcatchup.akamaized.net/preview/sunmusichd/1800.m3u8
+#EXTINF:-1 group-title="TAMIL",SUN MUSIC HD
+https://d3t34m8y8rh0vb.cloudfront.net/preview/sunmusichd/master.m3u8?hdnts
 #EXTINF:-1 group-title="TAMIL",SUN TV
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 #EXTINF:-1 group-title="TAMIL",SUN TV HD
@@ -131,6 +133,24 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil
 #EXTINF:-1 group-title="TAMIL",ZEE Thirai
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-224
+#EXTINF:-1 group-title="TAMIL",JAYA MAX
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",JAYA MOViE
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",JAYA Tv
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",KBO
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",KBO CLASSIC
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",Captain TV
+https://catchup.yuppcdn.net/amazonv2/20/preview/captaintv/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",Polimer TV
+https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -160,9 +180,11 @@ http://51.52.156.22:8888/http/003
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="KIDS",HALOW KIDS
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
-#EXTINF:-1 group-title="KIDS",POGO KIDS
-http://103.157.237.18:9000/play/402/index.m3u8
+#EXTINF:-1 group-title="KIDS",Chithiram Tv Tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
 
+#EXTINF:-1 group-title="ENGLISH",And FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",&PRIVE ENGLISH
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",ZEECAFE ENGLISH
@@ -191,7 +213,6 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ENGLISH",STARMOVIES ENGLISH
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-
 
 #EXTINF:-1 group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
