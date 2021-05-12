@@ -93,8 +93,16 @@ http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 group-title="TAMIL",SUN MUSIC
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 group-title="TAMIL",SUN MUSIC
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",SUN MUSIC HD
+https://yuppcatchup.akamaized.net/preview/sunmusichd/1800.m3u8
 #EXTINF:-1 group-title="TAMIL",SUN TV
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+#EXTINF:-1 group-title="TAMIL",SUN TV HD
+https://yuppcatchup.akamaized.net/preview/suntvhd/master.m3u8
+#EXTINF:-1 group-title="TAMIL",SUN LIFE HD
+https://yuppcatchup.akamaized.net/preview/sunlife/master.m3u8
 #EXTINF:-1 group-title="TAMIL",TAMILANJALTV
 http://198.144.149.82:8080/NOTV/TAMILANJALTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",Thirumalai tv
@@ -115,6 +123,10 @@ http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 http://softstreamtv.com:8080/NOTV/VTAMILTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",Wordgod tv
 http://198.144.149.82:8080/NOTV/WORDGODTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="TAMIL",ZEETAMIL
+https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
+
+
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network KIDS
@@ -143,6 +155,8 @@ http://51.52.156.22:8888/http/003
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="KIDS",HALOW KIDS
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
+#EXTINF:-1 group-title="KIDS",POGO KIDS
+http://103.157.237.18:9000/play/402/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",&PRIVE ENGLISH
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",ZEECAFE ENGLISH
