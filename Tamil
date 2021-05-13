@@ -184,16 +184,36 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
 #EXTINF:-1 group-title="KIDS",Boomerang Tv
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Boomerang Tv
+http://my.odtv.uk:80/5214022704/1810662031/107
+#EXTINF:-1 group-title="KIDS",Boomerang Tv
+http://45.182.23.211:2000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="KIDS",Disney
+http://45.182.23.211:2000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="KIDS",Disney JR
+http://45.182.23.211:2000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="KIDS",Disney
+http://45.182.23.211:2000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="KIDS",Discovery Kids HD
+http://45.182.23.211:2000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="KIDS",Nick 2 HD
+http://45.182.23.211:2000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr
+http://45.182.23.211:2000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="KIDS",Nick SIM HD
+http://45.182.23.211:2000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="KIDS",Nickelodeon
+http://45.182.23.211:2000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="KIDS",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 group-title="KIDS",Zee5 Kids
-http://starshare.live:8080/live/533004/533004/7062.ts
+http://starshare.live:8080/live/533004/533004/7062.m3u8
 #EXTINF:-1 group-title="KIDS",Disney Movies
-http://starshare.live:8080/live/533004/533004/8666.ts
+http://starshare.live:8080/live/533004/533004/8666.m3u8
 #EXTINF:-1 group-title="KIDS",Kids Co Movies
-http://starshare.live:8080/live/533004/533004/8663.ts
+http://starshare.live:8080/live/533004/533004/8663.m3u8
 #EXTINF:-1 group-title="KIDS",Netflix Kids
-http://starshare.live:8080/live/533004/533004/5281.ts
+http://starshare.live:8080/live/533004/533004/5281.m3u8
  
 #EXTINF:-1 group-title="ENGLISH",And FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -241,7 +261,8 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ENGLISH",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1 group-title="ENGLISH",WARNER HD
+http://45.182.23.211:2000/play/a0ay/index.m3u8
 
 #EXTINF:-1 group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
