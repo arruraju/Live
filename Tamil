@@ -183,7 +183,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:-1 group-title="KIDS",HALOW KIDS
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
 #EXTINF:-1 group-title="KIDS",Boomerang Tv
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 group-title="KIDS",Zee5 Kids
@@ -231,6 +231,17 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENGLISH",HISTORY
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ENGLISH",HISTORY 2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ENGLISH",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ENGLISH",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ENGLISH",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
 
 #EXTINF:-1 group-title="MALAYALAM",ACV MALAYALAM
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
@@ -272,6 +283,7 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",MANGALAM MALAYALAM
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Fox Sports2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Ptv Sports
@@ -292,3 +304,7 @@ http://starshare.live:8080/live/533004/533004/238.ts
 http://starshare.live:8080/live/533004/533004/200.ts
 #EXTINF:-1 group-title="SPORTS",Ten Sports
 http://starshare.live:8080/live/533004/533004/98.ts
+#EXTINF:-1 group-title="SPORTS",BT SPORTS 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORTS 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
