@@ -177,6 +177,8 @@ http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8
 #EXTINF:-1 group-title="TAMIL",MONTAMIL CINEMA TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8
+#EXTINF:-1 group-title="TAMIL",JVISION TV
+http://198.144.149.82:8080/DINESH/JVISION/index.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
