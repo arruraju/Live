@@ -155,6 +155,8 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Sooriyantv TV
 https://59d39900ebfb8.streamlock.net/Sooriyantv/Sooriyantv/media.m3u8
+#EXTINF:-1 group-title="TAMIL",Meenakshi TV
+https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
