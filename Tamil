@@ -153,6 +153,8 @@ http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Sangamam TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",Sooriyantv TV
+https://59d39900ebfb8.streamlock.net/Sooriyantv/Sooriyantv/media.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
