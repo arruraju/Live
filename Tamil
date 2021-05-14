@@ -167,6 +167,8 @@ http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8
 http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Aarya TV
 http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",Like TV
+http://liketv.7starcloud.com:1935/live/liketv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
