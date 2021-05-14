@@ -159,6 +159,8 @@ https://59d39900ebfb8.streamlock.net/Sooriyantv/Sooriyantv/media.m3u8
 https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
 #EXTINF:-1 group-title="TAMIL",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 group-title="TAMIL",Pragalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
