@@ -179,6 +179,10 @@ http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8
 #EXTINF:-1 group-title="TAMIL",JVISION TV
 http://198.144.149.82:8080/DINESH/JVISION/index.m3u8
+#EXTINF:-1 group-title="TAMIL",Adithya TV
+http://my.odtv.uk/live/3238545630/7067527301/39.m3u8
+#EXTINF:-1 group-title="TAMIL",ASTRO VAANAVIL TV
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -324,6 +328,8 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",MANGALAM MALAYALAM
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 group-title="MALAYALAM",MANGALAM KAMUDY
+http://iptvtree.net:8080/live/geniptv/4faed690fd/82530.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Fox Sports2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
