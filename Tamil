@@ -83,6 +83,8 @@ http://account13.livebox.co.in/palartvhls/live.m3u8
 http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",Rasi classic
 http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",Rasi lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Rasi movie
 http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",Rasi tv
