@@ -387,3 +387,26 @@ http://starshare.live:8080/live/533004/533004/98.ts
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",BT SPORTS 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="FM",MALAYALAM CLUBFM 99.6 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac
+#EXTINF:-1 group-title="FM",MALAYALAM HIT 96.7 FM
+http://stream.radiojar.com/3yygc0pwuueuv
+#EXTINF:-1 group-title="FM",MALAYALAM GOLD 101.3 FM
+https://stream.radio.co/s00240810b/listen
+#EXTINF:-1 group-title="FM",Pravasi Bharathi 810 AM
+http://198.27.67.39:8000/pravasiradio.mp3
+#EXTINF:-1 group-title="FM",MALAYALAM Qatar
+http://stream.zeno.fm/512rbf1e3qzuv
+#EXTINF:-1 group-title="FM",MALAYALAM Chennai FM
+https://listen.openstream.co/4624/audio
+#EXTINF:-1 group-title="FM",TAMIL 89.4 FM
+https://node-04.zeno.fm/gp5k6qs1bg0uv?rj-ttl=5&rj-tok=AAABda1ZHd8AhWIbKUvvMeGBew
+#EXTINF:-1 group-title="FM",TAMIL 106.5 FM
+https://livessl.rcast.net/stream/66462.mp3
+#EXTINF:-1 group-title="FM",TAMIL RADIO MIRCHI FM
+https://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="FM",TAMIL Radio City
+http://prclive1.listenon.in:9948/;
+#EXTINF:-1 group-title="FM",TAMIL Ullasam FM
+httpS://stream.zeno.fm/ak6km39gg0quv
