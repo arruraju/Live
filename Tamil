@@ -143,6 +143,8 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
 #EXTINF:-1 group-title="TAMIL",JAYA Tv
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL",JAYA Tv
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",KBO
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 #EXTINF:-1 group-title="TAMIL",KBO CLASSIC
@@ -201,6 +203,10 @@ https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
 http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",ISAI SARAL TV
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title="TAMIL",STAR VIJAY TV
+http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",MON TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -320,48 +326,52 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Discovery 
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="MALAYALAM",ACV MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",ACV  
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYALAM",ACV NEWS MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",ACV NEWS
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYALAM",ACV UTSAV MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",ACV UTSAV
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYALAM",ACV UTSAV PLUS MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",ACV UTSAV PLUS
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYALAM",KAPPATV MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",KAPPATV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 group-title="MALAYALAM",KAUMUDYTV MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",KAUMUDYTV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
-#EXTINF:-1 group-title="MALAYALAM",VICKTERS MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",VICKTERS
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
-#EXTINF:-1 group-title="MALAYALAM",ANANDTV MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",ANANDTV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/playlist.m3u8
-#EXTINF:-1 group-title="MALAYALAM",AMIRTHA MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",AMIRTHA
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="MALAYALAM",KCL MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 group-title="MALAYALAM",Kcv tv
+#EXTINF:-1 group-title="MALAYALAM",KCV TV
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="MALAYALAM",24NEWS MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",KCV Movies
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 group-title="MALAYALAM",24NEWS
 http://103.199.160.85/Content/24news/Live/Channel(24news)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",MANGALAM MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",MANGALAM
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",MAZAVIL MANORAMA MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",MAZAVIL MANORAMA
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",FLOWERS MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",FLOWERS
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",WE MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",WE
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",JEEVAN MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",JEEVAN
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",KAIRALI MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",KAIRALI
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",RASI MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",RASI
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
-#EXTINF:-1 group-title="MALAYALAM",MANGALAM MALAYALAM
+#EXTINF:-1 group-title="MALAYALAM",MANGALAM
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1 group-title="MALAYALAM",MANGALAM KAMUDY
+#EXTINF:-1 group-title="MALAYALAM",KAMUDY
 http://iptvtree.net:8080/live/geniptv/4faed690fd/82530.m3u8
+#EXTINF:-1 group-title="MALAYALAM",UTV
+http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Fox Sports2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
