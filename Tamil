@@ -310,18 +310,6 @@ http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=t.me/EXTM3U
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 group-title="KIDS",Chithiram Tv Tamil
 https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Network KIDS
-http://starshare.live:8080/live/533004/533004/8.ts
-#EXTINF:-1 group-title="KIDS",Sony Yay KIDS
-http://starshare.live:8080/live/533004/533004/204.ts
-#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS HD
-http://starshare.live:8080/live/533004/533004/208.ts
-#EXTINF:-1 group-title="KIDS",NICK INDIA KIDS
-http://starshare.live:8080/live/533004/533004/205.ts
-#EXTINF:-1 group-title="KIDS",NICK JR INDIA KIDS
-http://starshare.live:8080/live/533004/533004/206.ts
-#EXTINF:-1 group-title="KIDS",KIDS CENTRAL
-http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTINF:-1 group-title="KIDS",IBC KIDS
 https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVER FILM
@@ -338,56 +326,30 @@ https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
 #EXTINF:-1 group-title="KIDS",PBS-1 KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 group-title="KIDS",DISCOVERY-1 KIDS
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS ENGLISH
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY TURBO
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 group-title="KIDS",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="KIDS",Adventure Sports
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 group-title="KIDS",DISNEY JR KIDS
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="KIDS",TLC KIDS
 https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 group-title="KIDS",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="KIDS",CBEEBIES KIDS
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 group-title="KIDS",NICKTOONS KIDS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",HALOW KIDS
-http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.ts
-#EXTINF:-1 group-title="KIDS",Boomerang Tv
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Boomerang Tv
-http://my.odtv.uk:80/5214022704/1810662031/107
-#EXTINF:-1 group-title="KIDS",Boomerang Tv
-http://45.182.23.211:2000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="KIDS",Disney
-http://45.182.23.211:2000/play/a0c8/index.m3u8
-#EXTINF:-1 group-title="KIDS",Disney JR
-http://45.182.23.211:2000/play/a0do/index.m3u8
-#EXTINF:-1 group-title="KIDS",Disney
-http://45.182.23.211:2000/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="KIDS",Discovery Kids HD
-http://45.182.23.211:2000/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="KIDS",Nick 2 HD
-http://45.182.23.211:2000/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr
-http://45.182.23.211:2000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="KIDS",Nick SIM HD
-http://45.182.23.211:2000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="KIDS",Nickelodeon
-http://45.182.23.211:2000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="KIDS",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 group-title="KIDS",NICK Pulto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",KOCHU TV HD
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26573
+#EXTINF:-1 group-title="KIDS",Zoo Moo HD
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Love Nature
+https://bamus-eng-roku.amagi.tv:443/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Local Now Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Discovery Kids Malayalam
+https://idvd.multitvsolution.com/idvo/discoverykidseng.m3u8
 
 #EXTINF:-1 group-title="ENGLISH",And FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
