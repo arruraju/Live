@@ -3,37 +3,29 @@
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",7SMUSIC
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="TAMIL",7STAR
+#EXTINF:-1 group-title="TAMIL LOCAL",7STAR
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL MUSIC",ACNMUSIC
-http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",Analai express tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Analai express tv
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",ARASAN TAMIL
-http://ammacable.com:1935/acn/arasantv/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",Arunai tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Arunai tv
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",Asai tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Asai tv
 http://osaitv.livebox.co.in/osaihls/live.m3u8
-#EXTINF:-1 group-title="TAMIL MUSIC",ATHAVAN
+#EXTINF:-1 group-title="TAMIL LOCAL",ATHAVAN
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",AUSTAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1 group-title="TAMIL",COLORS TAMIL
-http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
-#EXTINF:-1 group-title="TAMIL",Hari tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Hari tv
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",HELLOTV
-http://198.144.149.82:8080/NOTV/HELLOTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL MUSIC",ISAIARUVI
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 group-title="TAMIL",Jawahar tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Jawahar tv
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",Jay tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Jay tv
 http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",Jayam tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Jayam tv
 http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",Jcv tv
+#EXTINF:-1 group-title="TAMIL",JCV tv
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1 group-title="TAMIL",Jeyam tv
 http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
@@ -113,8 +105,10 @@ https://yuppcatchup.akamaized.net/preview/sunmusichd/1800.m3u8
 https://d3t34m8y8rh0vb.cloudfront.net/preview/sunmusichd/master.m3u8?hdnts
 #EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC HD
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-#EXTINF:-1 group-title="TAMIL",SUN TV
+#EXTINF:-1 group-title="TAMIL",SUN TV-1
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+#EXTINF:-1 group-title="TAMIL",SUN TV-2
+http://tv.perfectiptv.tvip.xyz:80/live/fPnIwN2odkUo733/evJde3480/10175.m3u8
 #EXTINF:-1 group-title="TAMIL",SUN TV HD
 https://yuppcatchup.akamaized.net/preview/suntvhd/master.m3u8
 #EXTINF:-1 group-title="TAMIL",SUN LIFE HD
@@ -299,12 +293,18 @@ http://212.224.98.196:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=t.me/EXTM3U
 http://212.224.98.196:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1 group-title="TAMIL",Jaya Max Tamil
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1 group-title="TAMIL",Jaya Max
+http://tv.perfectiptv.tvip.xyz:80/live/fPnIwN2odkUo733/evJde3480/10181.m3u8
 #EXTINF:-1 group-title="TAMIL",Jaya Plus Tamil
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1 group-title="TAMIL",Jaya TV HD Tamil
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1 group-title="TAMIL",KTV HD Tamil
 http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1 group-title="TAMIL",YUPP THIRAI-1
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",YUPP THIRAI-2
+http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",AKARAM KIDS TAMIL
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -482,6 +482,8 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=30835
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1 group-title="MALAYALAM",Surya HD
 http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1 group-title="MALAYALAM",DREAM HD
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 
 
 #EXTINF:-1 group-title="SPORTS",Fox Sports2
