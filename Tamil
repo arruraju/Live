@@ -25,23 +25,21 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL LOCAL",Jayam tv
 http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",JCV tv
+#EXTINF:-1 group-title="TAMIL LOCAL",JCV tv
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
-#EXTINF:-1 group-title="TAMIL",Jeyam tv
+#EXTINF:-1 group-title="TAMIL LOCAL",LOTUS TV
 http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
-#EXTINF:-1 group-title="TAMIL",Kavin tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Kavin tv
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
-#EXTINF:-1 group-title="TAMIL",Krishna tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Krishna tv
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL",KTV
-http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
-#EXTINF:-1 group-title="TAMIL",Kvm tv
-http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kvmtv-32d6e133e4ba-otua-stream/index.m3u8
-#EXTINF:-1 group-title="TAMIL",Laxmi tv
+#EXTINF:-1 group-title="TAMIL BAKTHI",VANMALAR TV
+http://play.liveserv.in:1935/7280/7280/chunklist_w531651529.m3u8
+#EXTINF:-1 group-title="TAMIL BAKTHI",Laxmi tv
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",MAKKAL
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 group-title="TAMIL",Metro tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Metro tv
 http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",MKSIX
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -49,14 +47,10 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 group-title="TAMIL",MKTV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 group-title="TAMIL",MNTV
+#EXTINF:-1 group-title="TAMIL MUSIC",MNTV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 group-title="TAMIL",Mon tamil tv
+#EXTINF:-1 group-title="TAMIL LOCAL",Mon tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL",My tv
-http://account19.livebox.co.in/mytvhls/live.m3u8
-#EXTINF:-1 group-title="TAMIL",Nanban tv
-http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/nanbantv/index.m3u8
 #EXTINF:-1 group-title="TAMIL NEWS",NEWS 18 TAMIL
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1 group-title="TAMIL NEWS",KALAINGER NEWS
@@ -203,8 +197,8 @@ https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
 http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",ISAI SARAL TV
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 group-title="TAMIL",STAR VIJAY TV
-http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL",STAR VIJAY HD TV
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 #EXTINF:-1 group-title="TAMIL",MON TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TAMIL",GTA TAMIL TV
