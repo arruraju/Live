@@ -402,8 +402,8 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
 #EXTINF:-1 group-title="MALAYALAM",Surya Movies
 http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
-#EXTINF:-1 group-title="MALAYALAM",Surya Comedy
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=30835
+#EXTINF:-1 group-title="MALAYALAM",PRAVASI TV
+https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",Asianet plus HD
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1 group-title="MALAYALAM",DREAMS TV
