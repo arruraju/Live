@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",MAKKAL
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",MKSIX
@@ -45,7 +43,14 @@ http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/
 https://mhdtvapp.xyz/yupp/yupp.php?c=jaya-plus-tamil&e=.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",COLORS TAMIL
 https://yuppcatchup.akamaized.net/preview/colorstamil/1800.m3u8
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",COLORS TAMIL
 https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",VIJAY TV
+https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8?hdnts
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",SUN TV
+https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",SUN TV
+https://yuppcatchup.akamaized.net/preview/suntvhd/master.m3u8
 
 
 #EXTINF:-1 group-title="TAMIL LOCAL",7STAR
@@ -401,8 +406,8 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=30835
 #EXTINF:-1 group-title="MALAYALAM",Asianet plus HD
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1 group-title="MALAYALAM",Surya HD
-http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1 group-title="MALAYALAM",DREAMS TV
+https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",DREAM HD
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 #EXTINF:-1 group-title="MALAYALAM",MALANADU
