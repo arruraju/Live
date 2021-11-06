@@ -417,6 +417,8 @@ https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 #EXTINF:-1 group-title="MALAYALAM",MALANADU
 https://5k8q87bpdy4v-hls-live.wmncdn.net//mtvnews//d0dbe915091d400bd8ee7f27f0791303.sdp//playlist.m3u8
+#EXTINF:-1 group-title="MALAYALAM",ZEE KERALAM
+https://z5ams.akamaized.net/zkeralamhd/index.m3u8?hdnts=st=1636209190~exp=1636212190~acl=/*~hmac=405f4b45faf05566b52810459123a7276ba01773ac83803987cff5e92191b545
 
 #EXTINF:-1 group-title="FM",MALAYALAM CLUBFM 99.6 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac
