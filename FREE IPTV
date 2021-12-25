@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local",AVINASSH IPTV
 rtmp://bmlive.net:1935/Avinasshmurugan/avinassh
