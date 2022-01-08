@@ -286,6 +286,8 @@ http://212.102.60.76:80/o1/mono.m3u8
 http://212.102.60.76:80/z1/mono.m3u8 
 #EXTINF:-1 group-title="KIDS",DISCOVERY FAMILY HD
 http://212.102.60.76:80/x1/mono.m3u8
+#EXTINF:-1 group-title="KIDS",NICK TAMIL
+https://techiesneh.in1.bitmana.io/jiotv/snehjioox.php?c=Nick_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Ptv sports
 http://103.17.201.18:8000/play/a00v/index.m3u8
