@@ -149,6 +149,12 @@ http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1 group-title="TAMIL LOCAL"EZHILTV
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="TAMIL LOCAL"APPLE TV
+http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL LOCAL"ABINAYA TV
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="TAMIL MUSIC",7SMUSIC
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
