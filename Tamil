@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",Adithya TV
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9023&e=.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",MAKKAL
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",MKSIX
@@ -34,13 +36,23 @@ http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",Yupp Thirai
 http://istreamiptv.gq/vdn/thirai/auth.php
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",YUPP THIRAI-1
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",YUPP THIRAI-2
 http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",STAR VIJAY
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",Sun TV HD
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=14020&e=.m3u8
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",Sun TV
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9016&e=.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",VASANTH
+http://14.199.164.20:4001/play/a0la/index.m3u8
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",VASANTH-1
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",Vendhar
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=306
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",Vanavil
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",JAYA PLUS
 https://mhdtvapp.xyz/yupp/yupp.php?c=jaya-plus-tamil&e=.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",COLORS TAMIL
@@ -54,7 +66,10 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",SUN TV
 https://yuppcatchup.akamaized.net/preview/suntvhd/master.m3u8
 #EXTINF:-1 group-title="TAMIL ENTERTAINMENT",ZEE THIRAI
-https://bit.ly/zee-thirai
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
+#EXTINF:-1 group-title="TAMIL ENTERTAINMENT",ZEE Tamil-1
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeetamil
+
 
 
 #EXTINF:-1 group-title="TAMIL LOCAL",7STAR
@@ -157,7 +172,7 @@ http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TAMIL MUSIC",7SMUSIC
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",AUSTAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",ISAIARUVI
@@ -170,6 +185,8 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC HD
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9013&e=.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC HD
@@ -178,10 +195,13 @@ https://yuppcatchup.akamaized.net/preview/sunmusichd/1800.m3u8
 https://d3t34m8y8rh0vb.cloudfront.net/preview/sunmusichd/master.m3u8?hdnts
 #EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC HD
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+#EXTINF:-1 group-title="TAMIL MUSIC",SUN MUSIC
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9025&e=.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",JAYA MAX
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",IBC ISAI
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 group-title="TAMIL MUSIC",IBC Music
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TAMIL MUSIC",DAN MUSIC
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
@@ -286,8 +306,8 @@ http://212.102.60.76:80/o1/mono.m3u8
 http://212.102.60.76:80/z1/mono.m3u8 
 #EXTINF:-1 group-title="KIDS",DISCOVERY FAMILY HD
 http://212.102.60.76:80/x1/mono.m3u8
-#EXTINF:-1 group-title="KIDS",NICK TAMIL
-https://techiesneh.in1.bitmana.io/jiotv/snehjioox.php?c=Nick_Tamil&q=1200&e=.m3u8
+#EXTINF:-1 group-title="KIDS",NICK
+http://103.153.39.36:8000/play/a01c
 #EXTINF:-1 group-title="KIDS",POGO TAMIL
 https://techiesneh.in1.bitmana.io/jiotv/snehjioox.php?c=Pogo_Tamil&q=1200&e=.m3u8
 
@@ -361,8 +381,8 @@ https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b
 https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//chunklist_w998603333.m3u8
 #EXTINF:-1 group-title="MALAYALAM",NIC
 https://tvstream.space/jtv/tvisl.php?c=Sonic_Malayalam&=800&e=.m3u8
-#EXTINF:-1 group-title="MALAYALAM",ACV UTSAV PLUS
-https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 group-title="MALAYALAM",Asianet
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Asianet&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="MALAYALAM",KAPPATV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 group-title="MALAYALAM",KAUMUDYTV
@@ -386,7 +406,7 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/Stream(01)/index.m
 #EXTINF:-1 group-title="MALAYALAM",MAZAVIL MANORAMA
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 group-title="MALAYALAM",FLOWERS
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Flower_TV&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="MALAYALAM",WE
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 group-title="MALAYALAM",JEEVAN
@@ -417,8 +437,14 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="MALAYALAM",ASIANET MOVIES
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
+#EXTINF:-1 group-title="MALAYALAM",Surya TV
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9018&e=.m3u8
 #EXTINF:-1 group-title="MALAYALAM",Surya Movies
-http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9019&e=.m3u8
+#EXTINF:-1 group-title="MALAYALAM",Surya Music
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26575&e=.m3u8
+#EXTINF:-1 group-title="MALAYALAM",Surya Comedy
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=30835&e=.m3u8
 #EXTINF:-1 group-title="MALAYALAM",PRAVASI TV
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",Asianet plus HD
@@ -431,6 +457,8 @@ http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 https://5k8q87bpdy4v-hls-live.wmncdn.net//mtvnews//d0dbe915091d400bd8ee7f27f0791303.sdp//playlist.m3u8
 #EXTINF:-1 group-title="MALAYALAM",ZEE KERALAM
 https://z5ams.akamaized.net/zkeralamhd/index.m3u8?hdnts=st=1636209190~exp=1636212190~acl=/*~hmac=405f4b45faf05566b52810459123a7276ba01773ac83803987cff5e92191b545
+#EXTINF:-1 group-title="MALAYALAM",UTV Palakkad
+http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
 #EXTINF:-1 group-title="FM",MALAYALAM CLUBFM 99.6 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac
